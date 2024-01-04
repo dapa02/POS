@@ -1,2 +1,2 @@
 # POS
-Pemrograman Web
+Project Pemrograman Web
