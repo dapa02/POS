@@ -20,3 +20,4 @@ AZHYKA RIZKI RAMADHAN
 ### Halaman Parameter
 
 ### Relasi Database
+![image](https://github.com/Fardhilan/POS/assets/93815689/8793bceb-ea60-42da-bcd3-edb3027566f8)
