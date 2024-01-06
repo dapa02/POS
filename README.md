@@ -15,10 +15,10 @@ AZHYKA RIZKI RAMADHAN
 ![image](https://github.com/Fardhilan/POS/assets/93815689/d618f78f-3754-4680-affc-91140ea412c7)
 
 ### Halaman Transaksi
-![image](https://github.com/Fardhilan/POS/assets/93815689/aabf84a9-7fdd-4ae4-bee7-01182d851b2c)
+<img width="960" alt="cekot" src="https://github.com/Fardhilan/POS/assets/115516688/6df3d349-8c1e-4b82-aa6b-5789bf4829ae">
 
 ### Halaman Parameter
-<img width="960" alt="Purchase history" src="https://github.com/Fardhilan/POS/assets/93815689/ee9248aa-c329-4eb0-a84e-0efc6aba9e2c">
+<img width="960" alt="Paramete" src="https://github.com/Fardhilan/POS/assets/115516688/c651e88b-fb32-474c-ac42-de026ad1bd25">
 
 ### Relasi Database
 ![image](https://github.com/Fardhilan/POS/assets/93815689/8793bceb-ea60-42da-bcd3-edb3027566f8)
