@@ -15,6 +15,7 @@ AZHYKA RIZKI RAMADHAN
 ![image](https://github.com/Fardhilan/POS/assets/93815689/d618f78f-3754-4680-affc-91140ea412c7)
 
 ### Halaman Transaksi
+![image](https://github.com/Fardhilan/POS/assets/93815689/aabf84a9-7fdd-4ae4-bee7-01182d851b2c)
 
 ### Halaman Parameter
 
