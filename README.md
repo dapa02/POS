@@ -1,5 +1,10 @@
 # POS
-Project Pemrograman Web
+## Kelompok
+HAPSI DIAN RESMIHADI 
+FARDHILAN GALANG PRIARTO
+HAYKAL DAFFA SAPUTRA
+AZHYKA RIZKI RAMADHAN
+
 ### Halaman Login
 
 ### Halaman Dashboard
